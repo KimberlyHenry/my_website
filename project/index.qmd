@@ -1,0 +1,154 @@
+---
+title: "Current Funded Projects"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+\-\--
+
+**#4Corners4Health: A Social Media Cancer Prevention Program for Rural
+Emerging Adults**
+
+The goal of this project is to improve cancer risk behavioral factors
+among diverse emerging adults aged 18-26 living in rural counties in the
+Four Corners states, -- a unique, underserved region, -- using a social
+media campaign designed with community advisors. This project brings
+together investigators at four NCI-funded Cancer Centers to develop and
+test the impacts of a social media-based intervention.
+
+R01CA268037
+
+National Cancer Institute (NCI)
+
+Buller/Sussman (PI)
+
+09/15/22-09/14/27
+
+Role: Co-Investigator, PI of subcontract to CSU
+
+\-\--
+
+**Substance use among American Indian youth: Epidemiology and Etiology**
+
+The major goals of this project are to track substance use trends among
+American Indian adolescents and identify malleable risk and protective
+factors.
+
+R01DA003371
+
+National Institute on Drug Abuse (NIDA)
+
+Stanley/Swaim/Prince (PI)
+
+07/01/20-06/30/25
+
+Role: Co-Investigator
+
+\-\--
+
+**Life-course and intergenerational effects of criminal justice
+involvement: Identifying risks, the search for resilience, and the
+impact of the rise in opioid misuse and the Covid-19 pandemic The major
+goals of this project are to understand the role that involvement with
+the criminal justice system plays in life course development.**
+
+This study funds two rounds of new data collection for the focal
+participant from the Rochester Youth Development Study (G2) and the
+focal participant from the Rochester Intergenerational Study (G2's first
+born child - G3).
+
+2020-MU-MU-0017
+
+National Institute of Justice (NIJ)
+
+Augustyn (PI) 01/01/21-12/31/25
+
+Role: Co-Investigator, PI of subcontract to CSU
+
+\-\--
+
+**Northern Colorado Bridges to the Baccalaureate**
+
+The major goals of this project are to facilitate the successful
+transfer of community college students to a 4-year college (Front Range
+Community College to Colorado State University), and to provide
+opportunities for participation in undergraduate research. The program
+actively recruits students from under-represented groups in Science,
+Technology, Engineering, Math, and Medicine -- including first
+generation college students; Black, Latino/a, and Native students; and
+students who grew up in socio-economically disadvantaged households.
+
+T34GM137861
+
+National Institutes of Health (NIH)
+
+Laybourn (PI)
+
+08/01/20-07/31/25
+
+Role: Co-Investigator
+
+\-\--
+
+**Wolves to Rams Scholars Program**
+
+The major goals of this project are to facilitate the transition from
+Front Range Community College to Colorado State University and
+completion of a B.S. in a Science, Technology, Engineering, or Math
+(STEM) discipline among underprivileged students through a learning
+community and scholarships. The project also involves a longitudinal
+study of the impact of the scholarships on matriculation to a B.S. and
+entry into a STEM career.
+
+1930150
+
+National Science Foundation (NSF)
+
+Laybourn/Malara (PI)
+
+08/15/19-07/31/24
+
+Role: Co-Investigator/lead Scientist for research study
+
+\-\--
+
+R21CA241637
+
+**Using Retrospective and Real-time Physical Activity Tracking to
+Predict Risk of Sunburn in Outdoor Exercisers on Strava**
+
+This project will test the feasibility of delivering location-based,
+ecologically-valid sun safety advice to Strava users at times when they
+are predicted to be engaged in outdoor physical activity, by utilizing
+Strava's public open-source Applications Programming Interface.
+
+National Cancer Institute (NCI)
+
+Buller/Berteletti (PI)
+
+07/06/20-06/30/23
+
+Role: Co-Investigator, PI of subcontract to CSU
+
+\-\--
+
+**Intergenerational Studies Consortium: Understanding Mechanisms of
+Family Substance Use Transmission and Effects of Marijuana
+Legalization**
+
+The major goals of this project are to use integrative data analysis to
+pool data across three intergeneration studies and maximize scientific
+discovery.
+
+R01DA015485
+
+National Institute on Drug Abuse (NIDA)
+
+Capaldi/Kerr (PI)
+
+06/01/18-05/30/23
+
+Role: Co-Investigator, PI of subcontract to CSU
+
+\-\--

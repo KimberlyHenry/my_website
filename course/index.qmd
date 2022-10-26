@@ -1,0 +1,35 @@
+---
+title: "PSY 350: Research Design and Analysis II"
+toc: false
+listing:
+  fields: [title]
+  contents: 
+    - psy350
+  categories: false
+  image-align: left
+---
+
+PSY 350 is a required undergraduate course. Multiple live and online sections are taught every semester. The live courses accommodate approximately 100 students. Details about my section of the course may be found below.
+
+# COURSE DESCRIPTION 
+
+In this course, students study and master the fundamentals of data science. Data science is an interdisciplinary field that aims to produce insight from data. The focus of Dr. Henry's section of PSY 350 is on using data science for social good -- that is, to help illuminate, understand, and solve the problems in our society that are related to health inequity and social injustice. This takes several forms.
+
+Over the course of the semester students:
+
+-   Use R to conduct data analysis and produce beautiful reports with R Markdown
+
+-   Construct data visualizations to describe data
+
+-   Wrangle data to prepare for data analysis
+
+-   Analyze data
+
+-   Interpret and describe findings
+
+-   Illustrate uncertainty in statistical estimates
+
+-   Produce insight and present new insight to others
+
+This course is taught as a flipped classroom. Students work through module handouts on their own, and class time is spent on activities that reinforce the material in the handouts. Please click below to view the student handouts for each of the course modules.
+

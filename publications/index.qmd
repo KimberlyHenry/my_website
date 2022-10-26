@@ -1,0 +1,15 @@
+---
+title: "Recent Publications"
+listing:
+  fields: [image,title]
+  contents: 
+    - jsswr2022
+    - joya2022
+    - jsad2021
+  type: grid
+  grid-columns: 3
+  categories: false
+  image-align: left
+  sort: "date desc"
+---
+

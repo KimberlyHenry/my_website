@@ -1,0 +1,45 @@
+project:
+  type: website
+  
+website:
+  site-url: "http://psy.psych.colostate.edu/psylist/detail.asp?Num=163"
+  title: "KLHenry"
+  search: false
+  open-graph: 
+    site-name: KLHenry
+    description: "Professor"
+    image: "static/img/avatar.jpg"
+  navbar:
+    title: false
+    background: primary
+    right:
+      - href: about/index.qmd
+        text: About me
+      - href: project/index.qmd
+        text: Projects
+      - href: publications/index.qmd
+        text: Publications
+      - href: course/index.qmd
+        text: Example Course Materials
+  page-footer:
+    center: "powered by [quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/KimberlyHenry
+      - text: <i class="ai ai-google-scholar" role="img"></i>
+        href: https://scholar.google.com/citations?user=Ky6XFH4AAAAJ&hl=en
+      - text: <i class="ai ai-orcid" role="img"></i>
+        href: https://orcid.org/0000-0002-2303-3759
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: 
+      - styles.css
+      - academicons.css
+    toc: true
+    highlight-style: zenburn
+execute: 
+  freeze: auto
+
