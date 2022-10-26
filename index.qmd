@@ -6,12 +6,6 @@ css: index.css
 socials:
 shortcodes:
   - socials.lua
-listing:
-  fields: [title]
-  contents: 
-    - KLHenry_vitae.pdf
-  categories: false
-  image-align: left
 ---
 
 

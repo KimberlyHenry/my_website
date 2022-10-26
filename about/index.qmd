@@ -6,6 +6,12 @@ about:
   template: trestles
   image-width: 10em
   image-shape: rectangle
+listing:
+  fields: [title]
+  contents: 
+    - KLHenry_vitae.pdf
+  categories: false
+  image-align: left
 ---
 
 ::: habout
@@ -24,4 +30,4 @@ I am a Professor of Psychology and Public Health at Colorado State University. A
 
 ## Download my vitae
 
-<button type="button" class="btn btn-outline-success"><a href="/about/KLHENRY_vitae.pdf">pdf</a></button>
+<button type="button" class="btn btn-outline-success"><a href="/about/KLHenry_vitae.pdf">pdf</a></button>
