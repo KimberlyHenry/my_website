@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/course/index.html",
+    "items": [
+      "/course/psy350/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/jsswr2022/index.html",
@@ -14,11 +20,5 @@
   {
     "listing": "/course/psy350/index.html",
     "items": []
-  },
-  {
-    "listing": "/course/index.html",
-    "items": [
-      "/course/psy350/index.html"
-    ]
   }
 ]
