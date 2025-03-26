@@ -19,8 +19,6 @@ website:
         text: Projects
       - href: publications/index.qmd
         text: Publications
-      - href: course/index.qmd
-        text: Example Course Materials
   page-footer:
     center: "powered by [quarto](https://quarto.org)"
     right:
