@@ -1,0 +1,24 @@
+# macOS files
+.DS_Store
+
+# R specific files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python specific files
+__pycache__/
+*.pyc
+env/
+
+# Quarto specific
+*.html
+*.json
+.quarto/
+_site/
+
+# Temporary or backup files
+*.log
+*.tmp
+
+/.quarto/

@@ -1,0 +1,51 @@
+---
+title: "Current Funded Projects"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+**Substance Use Among American Indian Youth: Epidemiology and Etiology**
+
+The goals of this project are to monitor substance use trends among American Indian adolescents and identify modifiable risk and protective factors that promote healthy development.
+
+**R01DA003371**  
+*National Institute on Drug Abuse (NIDA)*  
+Crabtree, Henry, & Prince (Multiple-PIs)  
+07/01/25 – 04/30/30  
+
+---
+
+**Improving Timeliness and Quality of Care for Rural Head and Neck Cancer Patients**
+
+This randomized controlled trial evaluates the effectiveness of the CARES (Cancer Advocacy, Resources, Education, and Support) intervention in improving timeliness and quality of care for underserved rural patients with lung and head and neck cancer. The study assesses the intervention's impact on time to treatment initiation and completion.
+
+**R01CA254730**  
+*National Cancer Institute (NCI)*  
+Borrayo (PI)  
+06/01/21 – 06/30/27  
+*Role*: Co-Investigator
+
+---
+
+**#4Corners4Health: A Social Media Cancer Prevention Program for Rural Emerging Adults**
+
+This project aims to improve cancer prevention behaviors among diverse rural young adults (ages 18–26) in the underserved Four Corners region. Investigators from four NCI-funded Cancer Centers collaborate with community advisors to design and evaluate a targeted social media intervention.
+
+**R01CA268037**  
+*National Cancer Institute (NCI)*  
+Buller & Sussman (PIs)  
+09/15/22 – 09/14/27  
+*Role*: Co-Investigator, PI of subcontract to CSU  
+
+---
+
+**Life-course and Intergenerational Effects of Criminal Justice Involvement**
+
+The goals of this study are to examine how criminal justice system involvement affects life-course development, resilience, and intergenerational outcomes, considering factors such as opioid misuse and the COVID-19 pandemic. It funds two new data collections from participants in the Rochester Youth Development Study and their children in the Rochester Intergenerational Study.
+
+**2020-MU-MU-0017**  
+*National Institute of Justice (NIJ)*  
+Augustyn (PI)  
+01/01/21 – 12/31/26  
+*Role*: Co-Investigator, PI of subcontract to CSU  

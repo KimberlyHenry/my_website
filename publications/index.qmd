@@ -1,0 +1,14 @@
+---
+title: "Recent Publications"
+listing:
+  fields: [image,title]
+  contents: 
+    - prevsci2024
+    - jsswr2022
+    - jsh2024
+  type: grid
+  grid-columns: 3
+  categories: false
+  image-align: left
+---
+
