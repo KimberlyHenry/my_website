@@ -5,6 +5,6 @@ editor:
     wrap: 72
 ---
 
-Each Fall semester, I teach PSY652: PSY 652  Methods of Research in Psychology I, a graduate course.
+Each Fall semester, I teach PSY652: Methods of Research in Psychology I, a graduate course.
 
 You can check out my course website [here](https://psy652.colostate.edu).
