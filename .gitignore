@@ -12,10 +12,7 @@ __pycache__/
 env/
 
 # Quarto specific
-*.html
-*.json
 .quarto/
-_site/
 
 # Temporary or backup files
 *.log
