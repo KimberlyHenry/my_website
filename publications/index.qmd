@@ -12,3 +12,6 @@ listing:
   image-align: left
 ---
 
+\pagebreak
+
+![](images/useR2025logo.png){width="50" height="20"} Please check out the materials for [my recent talk at UseR! 2025](https://kimberlyhenry.github.io/UseR2025/)
