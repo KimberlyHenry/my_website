@@ -28,6 +28,18 @@ I am a Professor of Psychology and Public Health at Colorado State University. A
 
 -   **BS Health and Exercise Science** \| 1994 \| Indiana University of Pennsylvania \| Indiana, PA
 
-## Download my vitae
+## Download my vitae or NIH biosketch
 
-<button type="button" class="btn btn-outline-success"><a href="/about/KLHenry_vitae.pdf">pdf</a></button>
+<a href="/about/KLHenry_vitae.pdf" 
+   class="btn text-decoration-none" 
+   style="background-color:#f67e7d; color:#FFFFFF;">
+  Vitae
+</a>
+
+<a href="/about/Henry_biosketch.pdf" 
+class="btn text-decoration-none" 
+   style="background-color:#843b62; color:#FFFFFF;">
+  Biosketch
+</a>
+
+
